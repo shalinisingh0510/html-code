@@ -1,0 +1,25 @@
+
+    button{
+        color: darkgreen;
+        background-color: aqua;
+    }
+    #div2{
+        width: 100px;
+        padding-left: 200px;
+    }
+    a:hover{
+        background-color: brown;
+        
+    }
+    a{
+        color: rgb(41, 85, 123);
+    }
+    #code{
+        background-color: blanchedalmond;
+        border-left: 10px solid #0cd248; /* Thick left border with color */
+       
+        
+        
+    }
+
+
